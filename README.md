@@ -1,6 +1,6 @@
 # ChargeoverRuby
 
-TODO: Write a gem description
+THIS REPO HAS MOVED TO https://github.com/chargeover/chargeover_ruby
 
 ## Status
 [![Build Status](https://travis-ci.org/buffym/chargeover_ruby.svg?branch=master)](https://travis-ci.org/buffym/chargeover_ruby)
